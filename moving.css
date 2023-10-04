@@ -1,0 +1,12 @@
+body{
+    background-color: lightpink;
+}
+.box{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-radius: 25px;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
